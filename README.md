@@ -1,7 +1,7 @@
 # CC_Final_Project
 Utilizes Google Colab and YouTube Data API to crawl, clean, and analyze text comments from the GadgetIn channel.
 
-##Dataset Sources
+## Dataset Sources
 
 **Indonesian Stopwords List**  
 (https://www.kaggle.com/datasets/oswinrh/indonesian-stoplist?resource=download)
@@ -9,7 +9,7 @@ Utilizes Google Colab and YouTube Data API to crawl, clean, and analyze text com
 **Smartphone Brands Dataset**  
 (https://www.kaggle.com/datasets/abdulmalik1518/mobiles-dataset-2025)
 
-##How to Run
+## How to Run
 
 > You can run the project entirely in Google Colab.
 
